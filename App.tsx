@@ -162,7 +162,7 @@ const App: React.FC = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight">Soccer League Pro</h1>
-              <p className="text-xs text-slate-400 font-medium uppercase">シニア大会管理システム</p>
+              <p className="text-xs text-slate-400 font-medium uppercase">２０２６青森マスターズフットサルフェスタ</p>
             </div>
           </div>
           
